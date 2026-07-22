@@ -4,10 +4,11 @@ compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
 
 # 默认 D1 数据库配置（用于命令行操作）
-#[[d1_databases]]
-#binding = "DB"
-#database_name = "katelyatv-db"
+[[d1_databases]]
+binding = "DB"
+database_name = "katelyatv-db"
 #database_id = "6d580637-1f87-4ddf-8b4d-3d97254b4c33"
+database_id = "f3131d29-0114-4e7b-ab35-2b9cd4aaa776"
 
 # 生产环境配置
 [env.production]
