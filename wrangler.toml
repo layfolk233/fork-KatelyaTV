@@ -40,9 +40,7 @@ LOG_LEVEL = "info"
 LOG_FORMAT = "json"
 NODE_ENV = "production"
 PASSWORD = "xhb7"
-# 存储配置
 NEXT_PUBLIC_STORAGE_TYPE = "d1"
-# 功能开关
 NEXT_PUBLIC_ENABLE_REGISTER = "true"
 
 # 预览环境配置
@@ -74,3 +72,6 @@ HEALTH_CHECK_INTERVAL = "30"
 LOG_LEVEL = "info"
 LOG_FORMAT = "json"
 NODE_ENV = "production"
+PASSWORD = "xhb7"
+NEXT_PUBLIC_STORAGE_TYPE = "d1"
+NEXT_PUBLIC_ENABLE_REGISTER = "true"
