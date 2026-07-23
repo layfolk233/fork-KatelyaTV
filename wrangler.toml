@@ -36,7 +36,7 @@ HEALTH_CHECK_INTERVAL = "30"
 LOG_LEVEL = "info"
 LOG_FORMAT = "json"
 NODE_ENV = "production"
-# PASSWORD = "xhb7"
+PASSWORD = "xhb7"
 NEXT_PUBLIC_ENABLE_REGISTER = "true"
 
 # 预览环境配置
